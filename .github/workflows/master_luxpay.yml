@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'luxpay'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6E62B336F1344E83A9FE025DC9AA31E1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BBBBFAE9997F42C0B9FB40E2031422CF }}
